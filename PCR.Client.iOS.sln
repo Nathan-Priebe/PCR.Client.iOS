@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCR.Client.iOS", "PCR.Client.iOS\PCR.Client.iOS.csproj", "{CF8ADA02-3713-45A4-841A-954FC3BDC778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF8ADA02-3713-45A4-841A-954FC3BDC778}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CF8ADA02-3713-45A4-841A-954FC3BDC778}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CF8ADA02-3713-45A4-841A-954FC3BDC778}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CF8ADA02-3713-45A4-841A-954FC3BDC778}.Release|iPhone.Build.0 = Release|iPhone
+		{CF8ADA02-3713-45A4-841A-954FC3BDC778}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CF8ADA02-3713-45A4-841A-954FC3BDC778}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{CF8ADA02-3713-45A4-841A-954FC3BDC778}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CF8ADA02-3713-45A4-841A-954FC3BDC778}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

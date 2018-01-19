@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{CF8ADA02-3713-45A4-841A-954FC3BDC778}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PCR.Client.iOS/Main.storyboard">
+    <Files>
+      <File FileName="PCR.Client.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="PCR.Client.iOS/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PCR.Client.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.PCR.Client.iOS>
+</Properties>

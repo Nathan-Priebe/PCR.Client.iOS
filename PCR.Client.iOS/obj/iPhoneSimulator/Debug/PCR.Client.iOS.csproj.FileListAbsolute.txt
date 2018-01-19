@@ -1,0 +1,9 @@
+/Users/nathanpriebe/Projects/PCR.Client.iOS/PCR.Client.iOS/bin/iPhoneSimulator/Debug/PCR.Client.iOS.exe
+/Users/nathanpriebe/Projects/PCR.Client.iOS/PCR.Client.iOS/bin/iPhoneSimulator/Debug/PCR.Client.iOS.pdb
+/Users/nathanpriebe/Projects/PCR.Client.iOS/PCR.Client.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/nathanpriebe/Projects/PCR.Client.iOS/PCR.Client.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/nathanpriebe/Projects/PCR.Client.iOS/PCR.Client.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/nathanpriebe/Projects/PCR.Client.iOS/PCR.Client.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/nathanpriebe/Projects/PCR.Client.iOS/PCR.Client.iOS/obj/iPhoneSimulator/Debug/PCR.Client.iOS.csproj.CoreCompileInputs.cache
+/Users/nathanpriebe/Projects/PCR.Client.iOS/PCR.Client.iOS/obj/iPhoneSimulator/Debug/PCR.Client.iOS.exe
+/Users/nathanpriebe/Projects/PCR.Client.iOS/PCR.Client.iOS/obj/iPhoneSimulator/Debug/PCR.Client.iOS.pdb
